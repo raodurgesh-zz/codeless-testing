@@ -1,0 +1,14 @@
+{
+  "name": "cypress-starter",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "cypress": "^4.3.0"
+  },
+  "scripts": {
+    "cy:open": "cypress run"
+  },
+  "dependencies": {
+    "unique-selector": "^0.4.1"
+  }
+}
